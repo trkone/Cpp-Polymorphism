@@ -28,7 +28,7 @@ public:
 
 int main()
 {
-	Pers a1("Tarik","Haslak"),a2("Burak","Haslak");
+	Pers a1("Mahmut","Tuncer"),a2("Kolsuz","Fatih");
 	a1.goster();
 	a1=a2;
 	
